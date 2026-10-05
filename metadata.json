@@ -1,0 +1,7 @@
+{
+  "name": "DepEd Supply Acquisition",
+  "description": "DepEd School Property and Supply Acquisition Management System with full end-to-end Traceability Chain from PR to PO and IAR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
